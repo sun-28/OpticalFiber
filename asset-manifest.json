@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/opticalfiber/static/css/main.21a6f462.css",
-    "main.js": "/opticalfiber/static/js/main.83b0a0b4.js",
+    "main.css": "/opticalfiber/static/css/main.85001392.css",
+    "main.js": "/opticalfiber/static/js/main.88ce1191.js",
     "static/js/787.db1bff63.chunk.js": "/opticalfiber/static/js/787.db1bff63.chunk.js",
     "index.html": "/opticalfiber/index.html",
-    "main.21a6f462.css.map": "/opticalfiber/static/css/main.21a6f462.css.map",
-    "main.83b0a0b4.js.map": "/opticalfiber/static/js/main.83b0a0b4.js.map",
+    "main.85001392.css.map": "/opticalfiber/static/css/main.85001392.css.map",
+    "main.88ce1191.js.map": "/opticalfiber/static/js/main.88ce1191.js.map",
     "787.db1bff63.chunk.js.map": "/opticalfiber/static/js/787.db1bff63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21a6f462.css",
-    "static/js/main.83b0a0b4.js"
+    "static/css/main.85001392.css",
+    "static/js/main.88ce1191.js"
   ]
 }
